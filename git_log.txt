@@ -1,0 +1,52 @@
+commit 46d4d41b3289a694a9f9695a47514c1cb5d0afbf
+Merge: 4ec05eb 26c8117
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 5 21:33:29 2026 -0800
+
+    Added favorite food and game
+
+commit 26c811767e2c196b7ecaf005c2b6ee7ddc1587f1
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 5 21:28:18 2026 -0800
+
+    added favorite game to index
+
+commit 4ec05ebce17e4ee363d4874387704a7cb0a1a194
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 5 21:26:46 2026 -0800
+
+    Added favorite food to index
+
+commit 78c875e3b69c67f87ec23a40bb94a8b2d2068794
+Merge: 3117ef3 286cc0d
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 5 21:22:22 2026 -0800
+
+    Commit README.md
+
+commit 3117ef3fd757dd0afd1f32d4c084406f014b39ac
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 5 21:19:39 2026 -0800
+
+    Commit README.md
+
+commit 286cc0de5df255e5f9a3bec2b3c3ccd70e087c09
+Merge: 1d2bfc0 7d9ab5e
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 5 21:17:19 2026 -0800
+
+    Merge pull request #1 from George-M05/info-fill
+    
+    Added name and hobby to index
+
+commit 7d9ab5e8e03bbe8bfe1833c39d2f28e76eb2c44a
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 5 21:09:07 2026 -0800
+
+    Added name and hobby to index
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
